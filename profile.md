@@ -112,7 +112,7 @@
 </p>
 
 
-## ⭐️ From [@Srishti](https://github.com/SrishtiSinghD) 
+## ⭐️ From [@WarLord]
 <h3 align="right">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
 <!--
 **SrishtiSinghD/SrishtiSinghD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
